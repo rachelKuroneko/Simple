@@ -13,7 +13,8 @@ public class Test1 {
 	}
 	
 	public static void displayGreeting(){
-		System.out.print("HELLO WORLD!");	
+		System.out.println("HELLO WORLD!");
+		System.out.println("Test again!!!!!!!!!!!!!!");
 	}
 
 	

@@ -9,6 +9,11 @@ public class Test1 {
 		y = 5;
 		result = x / y;
 		JOptionPane.showMessageDialog(null, result);
+		displayGreeting();
+	}
+	
+	public static void displayGreeting(){
+		System.out.print("HELLO WORLD!");	
 	}
 
 	
